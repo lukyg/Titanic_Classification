@@ -1,3 +1,5 @@
+![alt text](https://github.com/lukyg/Titanic_Classification/blob/master/titanic.jpg?raw=true)
+sumber gambar: https://faithmag.com/2200-passengers-brave-priest-and-ship-named-titanic
 # Titanic Classification
 
 Proyek ini menggunakan dataset Titanic Disaster untuk memprediksi kelangsungan hidup penumpang berdasarkan berbagai fitur seperti kelas penumpang, usia, jenis kelamin, dll. Tujuan akhir dari proyek ini adalah untuk membangun model klasifikasi yang dapat dengan akurat memprediksi apakah seorang penumpang akan selamat atau tidak.
